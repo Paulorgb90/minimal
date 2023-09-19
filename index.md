@@ -10,95 +10,20 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Minha atuação!
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+O engenheiro ambiental pode trabalhar em fábricas e indústrias dos mais variados tamanhos e segmentos, em empresas de consultoria, ONGs, empresas de serviços, instituições de ensino e pesquisa, em empresas de investigação e averiguação, auditorias, prefeituras e secretarias públicas, entre outras.
 
-## Header 2
+## Meu tempo de formação!
 
-> This is a blockquote following a header.
+> O curso de Gestão Ambiental pode ser de nível bacharelado ou tecnológico. No bacharelado, a carga horária é maior, totalizando 4 anos de formação, período no qual o estudante contará com disciplinas teóricas e práticas, tendo como base o estudo de Física, Química, Biologia, Meteorologia e Geologia.
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> O mercado profissional de Engenharia Ambiental está em pleno desenvolvimento. Segundo dados oficiais do Cadastro Geral de Empregados e Desempregados (CAGED), houve um aumento de 39,53% no número de postos de trabalho mesmo em um período de pandemia.
 
-### Header 3
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
-#### Header 4
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
 ### Definition lists can be used with HTML syntax.
